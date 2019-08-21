@@ -1,0 +1,2 @@
+Informática,Redes,123
+Química,123,123
